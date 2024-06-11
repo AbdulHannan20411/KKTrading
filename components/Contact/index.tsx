@@ -78,7 +78,7 @@ const Contact = () => {
                   </div>
                   <div className="w-full px-4">
                     <button className="shadow-submit dark:shadow-submit-dark rounded-lg bg-primary px-9 py-4 text-base font-medium text-white duration-300 hover:bg-primary/90">
-                      <a rel="nofollow noreferrer" target="_blank" href={"https://wa.me/923029038010?text=" + encodeURIComponent( message + "  \n\n\n\n Regards: " +  name + "\n Phone Number: " + phoneNumber)}> Send Message</a> 
+                      <a rel="nofollow noreferrer" target="_blank" href={"https://wa.me/923330133335?text=" + encodeURIComponent( message + "  \n\n\n\n Regards: " +  name + "\n Phone Number: " + phoneNumber)}> Send Message</a> 
                     </button>
                   </div>
                 </div>

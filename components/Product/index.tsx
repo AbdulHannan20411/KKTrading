@@ -17,7 +17,7 @@ const Product = () => {
 
         <div className="flex w-full flex-wrap gap-6 justify-center">
           {productData.map((product) => (
-            <div key={product.id} className="w-[20rem] max-h-[30rem]">
+            <div key={product.id} className="w-[20rem] max-h-[30rem] hover:scale-105 transition-all">
               <SingleProduct product={product} />
             </div>
           ))}

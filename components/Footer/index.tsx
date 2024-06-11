@@ -16,14 +16,14 @@ const Footer = () => {
               <div className="mb-12 max-w-[360px] lg:mb-16 ">
                 <Link href="/" className="mb-8 inline-block">
                   <Image
-                    src="/images/logo/logo-2.svg"
+                    src="/images/logo/logo-2.jpeg"
                     alt="logo"
                     className="w-full dark:hidden"
                     width={140}
                     height={30}
                   />
                   <Image
-                    src="/images/logo/logofooter.svg"
+                    src="/images/logo/logofooter.jpeg"
                     alt="logo"
                     className="hidden w-full dark:block"
                     width={140}
@@ -31,7 +31,7 @@ const Footer = () => {
                   />
                 </Link>
                 <p className="dark:text-body-color-dark mb-9 text-base leading-relaxed text-body-color">
-                  Embark on a Journey of Language Discovery with IELC – Where Every Word Opens a New World.🔥
+                  Embark on a Journey of Manufacturing with KK Trading – Where Every Word Opens a New World.🔥
                 </p>
                 <div className="flex items-center justify-center md:justify-normal">
                   <a
@@ -176,26 +176,11 @@ const Footer = () => {
                 <ul>
                   <li>
                     <a
-                      href="/contact"
+
+                      href="https://wa.me/923330133335?text="
                       className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
                     >
                       Whatsapp
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://whatsapp.com/channel/0029VaE0N1T59PwIfj0HhI2l" target="_blank" rel="noreferrer"
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
-                    >
-                      Whatsapp Channel
-                    </a>
-                  </li>
-                  <li>
-                    <a
-                      href="https://chat.whatsapp.com/Gj7kVcbOoBq3A2HZl4npEy" target="_blank" rel="noreferrer"
-                      className="dark:text-body-color-dark mb-4 inline-block text-base text-body-color duration-300 hover:text-primary dark:hover:text-primary"
-                    >
-                      Whatsapp Group
                     </a>
                   </li>
                 </ul>
